@@ -2,7 +2,7 @@
 
 🎯 Fullstack developer on land.
 💻 Focused on Kotlin (Android/KMP) and Java (Game & UI applications).
-📈 Building real tools for real people — even without internet.
+📈 Building real tools for real people.
 
 ---
 
