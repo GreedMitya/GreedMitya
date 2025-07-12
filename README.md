@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dmytro Popkov
 
-🎯 Fullstack developer on land.
+🎯 Fullstack developer.
 💻 Focused on Kotlin (Android/KMP) and Java (Game & UI applications).
 📈 Building real tools for real people.
 
