@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dmytro Popkov
 
 - 🎯 Fullstack developer.
-- 💻 Focused on Kotlin (Android/KMP) and Java (Game & UI applications).
+- 💻 Focused on JAVA and Kotlin (Android/KMP).
 - 📈 Building real tools for real people.
 
 ---
