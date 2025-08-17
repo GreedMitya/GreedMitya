@@ -8,31 +8,46 @@
 
 ## 🔧 My Pet Projects
 
-### 🧪 [Potion Calculator](https://github.com/GreedMitya/PotionCalculator)
+### 📊 [BizRadar](https://github.com/GreedMitya/BizRadar) 
+Fullstack web app for business data aggregation & analytics  
 
-Android/KMP app for Albion Online players to calculate crafting profits.
-
-* Jetpack Compose Multiplatform (Android + Desktop)
-* Dynamic UI from Figma + game-specific logic
-* Fetches live market data from Albion API
-* Closed testing on Google Play ✅
-* 📸 Fully documented with screenshots and tests
-
-### 🎲 [P2Poker](https://github.com/GreedMitya/P2Poker)
-
-Peer-to-peer poker game over LAN — **no internet/server required**
-
-* Java + LibGDX + KryoNet
-* Full UI, animations, pot logic, and fairness testing
-* Runs on Desktop & Android — just click and play
+* **Spring Boot** backend (REST APIs, auth, payments)  
+* **PostgreSQL + Hibernate**, **Redis** caching  
+* **React** dashboards with data visualization  
+* External API integrations (business data, statistics)  
+* **Stripe/PayPal** payment support  
+* **Docker** containerization, **AWS** deployment  
+* Secure, scalable, production-ready architecture  
 
 ---
 
-## 📚 Tech Stack
+### 🧪 [Potion Calculator](https://github.com/GreedMitya/PotionCalculator)  
+Android/KMP app for Albion Online players to calculate crafting profits  
 
-`Kotlin` `Jetpack Compose` `KMP`
-`Java` `LibGDX` `Scene2D` `KryoNet`
-`Gradle (Kotlin DSL)` `Git` `Figma`
+* Jetpack Compose Multiplatform (Android + Desktop)  
+* Dynamic UI from Figma + game-specific logic  
+* Fetches live market data from Albion API  
+* Closed testing on Google Play ✅  
+* 📸 Fully documented with screenshots and tests  
+
+---
+
+### 🎲 [P2Poker](https://github.com/GreedMitya/P2Poker)  
+Peer-to-peer poker game over LAN — **no internet/server required**  
+
+* Java + LibGDX + KryoNet  
+* Full UI, animations, pot logic, and fairness testing  
+* Runs on Desktop & Android — just click and play  
+
+---
+
+## 📚 Tech Stack  
+
+`Java` `Kotlin` `Spring Boot` `Hibernate`  
+`React` `Jetpack Compose` `KMP`  
+`PostgreSQL` `Redis`  
+`Docker` `AWS`  
+`Gradle (Kotlin DSL)` `Git` `Figma`  
 
 ---
 
