@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Dmytro Popkov
 
-- 🎯 Fullstack developer.
-- 💻 Focused on JAVA and Kotlin (Android/KMP).
-- 📈 Building real tools for real people.
+ * Java/Kotlin Engineer with 3 years experience delivering enterprise solutions and modern Android apps.
+ Skilled in Spring Boot, PostgreSQL, Redis, Docker, and Jetpack Compose. Write secure, clean code and
+ drive projects from idea to production, using AI tools to accelerate results.
 
 ---
 
