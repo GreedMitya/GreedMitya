@@ -7,18 +7,6 @@
 ---
 
 ## 🔧 My Pet Projects
-
-### 📊 [BizRadar](https://github.com/GreedMitya/BizRadar) 
-Fullstack web app for business data aggregation & analytics  
-
-* **Spring Boot** backend (REST APIs, auth, payments)  
-* **PostgreSQL + Hibernate**, **Redis** caching  
-* **React** dashboards with data visualization  
-* External API integrations (business data, statistics)  
-* **Stripe/PayPal** payment support  
-* **Docker** containerization, **AWS** deployment  
-* Secure, scalable, production-ready architecture  
-
 ---
 
 ### 🧪 [Potion Calculator](https://github.com/GreedMitya/PotionCalculator)  
@@ -29,6 +17,19 @@ Android/KMP app for Albion Online players to calculate crafting profits
 * Fetches live market data from Albion API  
 * Closed testing on Google Play ✅  
 * 📸 Fully documented with screenshots and tests  
+
+---
+
+### 📊 [BizRadar](at present private) 
+Fullstack web app for business data aggregation & analytics  
+
+* **Spring Boot** backend (REST APIs, auth, payments)  
+* **PostgreSQL + Hibernate**, **Redis** caching  
+* **React** dashboards with data visualization  
+* External API integrations (business data, statistics)  
+* **Stripe/PayPal** payment support  
+* **Docker** containerization, **AWS** deployment  
+* Secure, scalable, production-ready architecture
 
 ---
 
