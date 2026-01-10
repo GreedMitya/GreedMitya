@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dmytro Popkov
 
- * Java/Kotlin Engineer / Android apps.
- Skilled in Spring Boot, PostgreSQL, Redis, Docker, and Jetpack Compose. Write secure, clean code and
+ * Java/Kotlin Developer.
+ Skilled in Spring Boot, PostgreSQL, Redis, Recat,  Docker, and Jetpack Compose. Write secure, clean code and
  drive projects from idea to production, using AI tools to accelerate results.
 
 ---
