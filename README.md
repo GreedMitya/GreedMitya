@@ -66,7 +66,7 @@ Peer-to-peer poker game over LAN — **no internet/server required**
 ## 🧪 Test Coverage
 
 Both projects include logic unit tests:
-
+* ✅ Multiwork — [300+ tests here](https://github.com/UPCoD-UNKD/multiwork-probetag.git)
 * ✅ PotionCalculator — [Craft logic test file](https://github.com/GreedMitya/PotionCalculator/blob/main/composeApp/src/commonTest/kotlin/com/greedmitya/albcalculator/logic/PotionCraftCalculatorTest.kt)
 * ✅ P2Poker — [HandEvaluator fairness test](https://github.com/GreedMitya/P2Poker/blob/main/core/src/test/java/HandEvaluatorTest.java)
 
@@ -76,8 +76,8 @@ Both projects include logic unit tests:
 
 Open to remote/in-office opportunities:
 
+* Java
 * Android / Java / Kotlin / KMP development
-* Java-based UI or backend apps
 * Practical software teams solving real-world problems
 
 📫 [senseimitya@gmail.com](mailto:senseimitya@gmail.com)
