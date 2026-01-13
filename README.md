@@ -15,17 +15,7 @@ Production collaboration platform for developers & startups to build MVPs and re
 * Frontend: **React 18** with custom UI components  
 * Mobile: **Native Android app** (focus on retention & notifications)  
 * Multi-repository architecture (backend / frontend / mobile)  
-* Core developer role: feature development, API integration, production support  
-
-
-### 🧪 [Potion Calculator](https://github.com/GreedMitya/PotionCalculator)  
-Android/KMP app for Albion Online players to calculate crafting profits  
-
-* Jetpack Compose Multiplatform (Android + Desktop)  
-* Dynamic UI from Figma + game-specific logic  
-* Fetches live market data from Albion API  
-* Closed testing on Google Play ✅  
-* 📸 Fully documented with screenshots and tests  
+* Core developer role: feature development, API integration, production support
 
 ---
 
@@ -39,6 +29,18 @@ Fullstack web app for business data aggregation & analytics
 * **Stripe/PayPal** payment support  
 * **Docker** containerization, **AWS** deployment  
 * Secure, scalable, production-ready architecture
+
+---
+
+
+### 🧪 [Potion Calculator](https://github.com/GreedMitya/PotionCalculator)  
+Android/KMP app for Albion Online players to calculate crafting profits  
+
+* Jetpack Compose Multiplatform (Android + Desktop)  
+* Dynamic UI from Figma + game-specific logic  
+* Fetches live market data from Albion API  
+* Closed testing on Google Play ✅  
+* 📸 Fully documented with screenshots and tests  
 
 ---
 
