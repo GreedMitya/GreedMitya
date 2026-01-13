@@ -29,7 +29,7 @@ Android/KMP app for Albion Online players to calculate crafting profits
 
 ---
 
-### 📊 [BizRadar](at present private) 
+### 📊 [BizRadar](http://t.me/BizzRaddar_bot) 
 Fullstack web app for business data aggregation & analytics  
 
 * **Spring Boot** backend (REST APIs, auth, payments)  
