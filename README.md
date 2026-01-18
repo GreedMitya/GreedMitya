@@ -7,18 +7,6 @@ Java/Kotlin Developer. Skilled in Spring Boot, PostgreSQL, Redis, React, Docker,
 ## 🔧 My Projects
 ---
 
-### 🧪 [MultiWork](https://beta.multiwork.tech/)
-Production collaboration platform for developers & startups to build MVPs and real products
-
-* Live **beta production** platform with real users  
-* Backend: **Java 17 + Spring Boot**, REST API, OAuth2, PostgreSQL  
-* Frontend: **React 18** with custom UI components  
-* Mobile: **Native Android app** (focus on retention & notifications)  
-* Multi-repository architecture (backend / frontend / mobile)  
-* Core developer role: feature development, API integration, production support
-
----
-
 ### 📊 [BizRadar](http://t.me/BizzRaddar_bot) 
 Fullstack web app for business data aggregation & analytics  
 
@@ -32,6 +20,17 @@ Fullstack web app for business data aggregation & analytics
 
 ---
 
+### 🧪 [MultiWork](https://beta.multiwork.tech/)
+Production collaboration platform for developers & startups to build MVPs and real products
+
+* Live **beta production** platform with real users  
+* Backend: **Java 17 + Spring Boot**, REST API, OAuth2, PostgreSQL  
+* Frontend: **React 18** with custom UI components  
+* Mobile: **Native Android app** (focus on retention & notifications)  
+* Multi-repository architecture (backend / frontend / mobile)  
+* Core developer role: feature development, API integration, production support
+
+---
 
 ### 🧪 [Potion Calculator](https://github.com/GreedMitya/PotionCalculator)  
 Android/KMP app for Albion Online players to calculate crafting profits  
