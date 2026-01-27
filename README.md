@@ -38,7 +38,7 @@ Android/KMP app for Albion Online players to calculate crafting profits
 * Jetpack Compose Multiplatform (Android + Desktop)  
 * Dynamic UI from Figma + game-specific logic  
 * Fetches live market data from Albion API  
-* Closed testing on Google Play ✅  
+* Published on Google Play ✅  
 * 📸 Fully documented with screenshots and tests  
 
 ---
