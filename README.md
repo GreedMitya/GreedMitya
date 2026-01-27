@@ -29,7 +29,7 @@ Production collaboration platform for developers & startups to build MVPs and re
 * Mobile: **Native Android app** (focus on retention & notifications)  
 * Multi-repository architecture (backend / frontend / mobile)  
 * Core developer role: feature development, API integration, production support
-
+* For testing t@test.com / Test1234
 ---
 
 ### 🧪 [Potion Calculator](https://github.com/GreedMitya/PotionCalculator)  
